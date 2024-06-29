@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6b1d031c","path":"/docs/eg.html","title":"示范/E.g.","lang":"en-US","frontmatter":{"title":"示范/E.g.","date":"2024/03/22","isShowComments":false},"headers":[],"git":{},"filePathRelative":"docs/eg.md"}');export{e as data};

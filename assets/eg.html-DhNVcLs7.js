@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,b as o}from"./app-lUP_J1pe.js";const _={},n=o("p",null,"示范文档/Main Text",-1),s=[n];function a(r,l){return t(),c("div",null,s)}const d=e(_,[["render",a],["__file","eg.html.vue"]]);export{d as default};
