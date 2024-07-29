@@ -10,7 +10,7 @@ tagline: 向着梦想而战
 projects:
   - icon: project
     name: YuET
-    desc: 一个简单的工具箱给AmongUs游戏
+    desc: 一个简单的AmongUs工具箱模组
     link: https://github.com/Night-GUA/YuEzTools
 
   # - icon: link
