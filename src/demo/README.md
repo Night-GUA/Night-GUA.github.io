@@ -1,9 +1,9 @@
 ---
-title: Features demo
+title: Docs
 index: false
 icon: laptop-code
 category:
-  - Guide
+  - Docs
 ---
 
 <Catalog />

@@ -5,6 +5,8 @@ cover: https://t.alcy.cc/pc/
 
 # About YuTeam
 
+## Team Member
+
 ```component VPCard
 title: Yu
 desc: Be Dream
@@ -22,7 +24,7 @@ background: rgba(253, 230, 138, 0.15)
 ```
 
 ```component VPCard
-  title: Farewall
+  title: Farewell
   desc: Play Genshin Impact!
   logo: https://i.postimg.cc/SRDbr4Hg/b-7d04ae7465be15329ead3561383b9a62.jpg
   link: https://github.com/ksduye
