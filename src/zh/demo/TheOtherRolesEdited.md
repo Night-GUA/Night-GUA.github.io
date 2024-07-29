@@ -37,7 +37,7 @@ copyright: Copyright © 2024 Yu
 - 主要开发者
 
 ```component VPCard
-  title: Farewall(毒液)
+  title: farewell(毒液)
   desc: 原神启动
   logo: https://i.postimg.cc/SRDbr4Hg/b-7d04ae7465be15329ead3561383b9a62.jpg
   link: https://github.com/ksduye
