@@ -1,12 +1,12 @@
 ---
 # 这是文章的标题
-title: YuEzTools
+title: YuAntiCheat
 # 你可以自定义封面图片
-cover: https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/YuET-Logo-untm.png
+cover: https://raw.githubusercontent.com/Night-GUA/YuEzTools/YuAC/YuAntiCheat/Resources/YuAC-Logo-untm.png
 # 这是页面的图标
 icon: book
 # 这是侧边栏的顺序
-order: 1
+order: 2
 # 设置作者
 author: Yu
 # 设置写作时间
@@ -28,7 +28,7 @@ footer: YuTeam | MIT Licensed
 copyright: Copyright © 2024 Yu
 ---
 
-介绍 AmongUs模组 `YuEzTools` 
+介绍 AmongUs模组 `YuAntiCheat` 
 
 <!-- more -->
 
@@ -82,10 +82,10 @@ background: rgba(253, 230, 138, 0.15)
 
 # 简介
 
-Among Us游戏的简单工具箱，功能繁杂
+Among Us游戏的反作弊
 
-::: info 下载
+::: caution 下载
 
-请点击 [下载](https://github.com/Night-GUA/YuEzTools/releases).
+已停止更新，请 [下载](/zh/demo/YuEzTools) `YuEzTools` .
 
 :::

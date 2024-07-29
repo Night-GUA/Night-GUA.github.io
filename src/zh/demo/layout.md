@@ -1,7 +1,7 @@
 ---
 title: 布局
 icon: object-group
-order: 2
+order: 3
 category:
   - 指南
 tag:
