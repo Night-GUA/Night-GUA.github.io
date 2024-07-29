@@ -19,6 +19,8 @@ export default hopeTheme({
 
   docsDir: "src",
 
+  fullscreen: true,
+
   blog: {
     medias: {
       // Baidu: "https://example.com",
@@ -59,11 +61,12 @@ export default hopeTheme({
     },
   },
 
+
+
   locales: {
     "/": {
       // navbar
       navbar: enNavbar,
-
       // sidebar
       sidebar: enSidebar,
 
@@ -87,7 +90,6 @@ export default hopeTheme({
     "/zh/": {
       // navbar
       navbar: zhNavbar,
-
       // sidebar
       sidebar: zhSidebar,
 

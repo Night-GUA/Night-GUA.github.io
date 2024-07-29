@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: YuBot
 # 你可以自定义封面图片
-cover: https://i.postimg.cc/ncPZXv7g/b-89c62548bb6bf6ef16399b2cd874e105.jpg
+cover: https://s21.ax1x.com/2024/07/29/pkLeFTe.png
 # 这是页面的图标
 icon: book
 # 这是侧边栏的顺序
