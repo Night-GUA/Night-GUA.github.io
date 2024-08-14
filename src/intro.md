@@ -24,14 +24,6 @@ background: rgba(253, 230, 138, 0.15)
 ```
 
 ```component VPCard
-  title: Farewell
-  desc: Play Genshin Impact!
-  logo: https://i.postimg.cc/SRDbr4Hg/b-7d04ae7465be15329ead3561383b9a62.jpg
-  link: https://github.com/ksduye
-  background: rgba(255,255,0, 0.15)
-```
-
-```component VPCard
   title: Name
   desc: I want to hot!
   logo: https://i.postimg.cc/9FmWq8sx/b-e5335d9eeaa2601aa26688d21b702014.jpg
