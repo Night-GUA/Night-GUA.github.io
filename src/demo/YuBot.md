@@ -39,7 +39,7 @@ Project introduce about a QQ Bot `YuBot`
 ```component VPCard
 title: Yu
 desc: Be Dream
-logo: https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
+logo: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
 link: https://github.com/Night-GUA
 background: rgba(253, 230, 138, 0.15)
 ```

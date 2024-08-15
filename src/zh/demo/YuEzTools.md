@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: YuEzTools
 # 你可以自定义封面图片
-cover: https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/YuET-Logo-untm.png
+cover: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/YuET-Logo-untm.png
 # 这是页面的图标
 icon: book
 # 这是侧边栏的顺序
@@ -39,7 +39,7 @@ copyright: Copyright © 2024 Yu
 ```component VPCard
 title: Yu
 desc: 为热爱，去创造
-logo: https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
+logo: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
 link: https://github.com/Night-GUA
 background: rgba(253, 230, 138, 0.15)
 ```
@@ -88,11 +88,11 @@ Among Us游戏的简单工具箱，功能繁杂
 #  功能
 - [x] 反作弊
 - [x] GUI菜单
-- [ ] 更改原版音乐
+- [x] 禁用原版音乐
 - [ ] 更多好玩的功能
 
 ::: info 下载
 
-请点击 [下载](https://github.com/Night-GUA/YuEzTools/releases).
+请点击 [下载](https://github.com/Team-YuTeam/YuEzTools/releases).
 
 :::

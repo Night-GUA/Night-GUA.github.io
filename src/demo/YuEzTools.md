@@ -39,7 +39,7 @@ Project introduce about AmongUs Mod `YuEzTools`
 ```component VPCard
 title: Yu
 desc: Be Dream
-logo: https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
+logo: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
 link: https://github.com/Night-GUA
 background: rgba(253, 230, 138, 0.15)
 ```
@@ -88,11 +88,11 @@ A Ez Tools for Among us
 # Function
 - [x] AntiCheat
 - [x] GUI Menu
-- [ ] Change Music
+- [x] Change Music
 - [ ] More Fun Function
 
 ::: info Download
 
-Please press [me](https://github.com/Night-GUA/YuEzTools/releases).
+Please press [here](https://github.com/Team-YuTeam/YuEzTools/releases).
 
 :::

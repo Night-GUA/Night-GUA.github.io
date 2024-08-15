@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: YuAntiCheat
 # 你可以自定义封面图片
-cover: https://raw.githubusercontent.com/Night-GUA/YuEzTools/YuAC/YuAntiCheat/Resources/YuAC-Logo-untm.png
+cover: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/YuAC-Logo-untm.png
 # 这是页面的图标
 icon: book
 # 这是侧边栏的顺序

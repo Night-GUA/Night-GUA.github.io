@@ -3,15 +3,16 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage:  https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
+heroImage:  https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
 heroText: Yu-Blog
 tagline: Be Dream
 heroFullScreen: true
+bgImage: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/YuET-BG.jpg
 projects:
   - icon: project
     name: YuET
     desc: A easy tools for AmongUs
-    link: https://github.com/Night-GUA/YuEzTools
+    link: https://github.com/Team-YuTeam/YuEzTools
 
   # - icon: link
   #   name: link name

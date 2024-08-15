@@ -3,15 +3,16 @@ home: true
 layout: BlogHome
 icon: home
 title: 首页
-heroImage: https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
+heroImage: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
 heroText: Yu-Blog
 heroFullScreen: true
 tagline: 向着梦想而战
+bgImage: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/YuET-BG.jpg
 projects:
   - icon: project
     name: YuET
     desc: 一个简单的AmongUs工具箱模组
-    link: https://github.com/Night-GUA/YuEzTools
+    link: https://github.com/Team-YuTeam/YuEzTools
 
   # - icon: link
   #   name: 链接名称

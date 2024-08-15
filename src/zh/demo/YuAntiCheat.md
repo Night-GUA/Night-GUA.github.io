@@ -39,7 +39,7 @@ copyright: Copyright © 2024 Yu
 ```component VPCard
 title: Yu
 desc: 为热爱，去创造
-logo: https://raw.githubusercontent.com/Night-GUA/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
+logo: https://raw.githubusercontent.com/Team-YuTeam/YuEzTools/main/YuEzTools/Resources/Yu-Logo-tm.png
 link: https://github.com/Night-GUA
 background: rgba(253, 230, 138, 0.15)
 ```
